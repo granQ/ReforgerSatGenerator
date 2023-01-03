@@ -57,4 +57,4 @@ for layer in layers:
   
   output_image = Image.composite(output_image, texture_image, mask_inverted_image)
 
-output_image.save(f'{base_folder}/satelite_ramskogen.png', quality=95)
+output_image.save(f'{base_folder}/satellite.png', quality=95)
