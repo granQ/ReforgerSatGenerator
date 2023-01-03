@@ -6,7 +6,7 @@ This script don't create something amazing, thats dependet on your mask and the 
 This is however very fast, free and possible to update with a on new exported mask. 
 
 ***********
-* Credits *
+Credits 
 ***********
 Basically all code is made by Bjorn Dahlgren.
 
@@ -24,11 +24,13 @@ Basically all code is made by Bjorn Dahlgren.
 5) Run the batfile, soon your satellite.png dhall been created.
 
 ****************
-* Useful notes *
+Useful notes
 ****************
 
-In the pyhton script you can choose between tiled or stretched backgrounds, as well as blured or not.
-Recommend to try out what is best for combination for your project.
+In the pyhton script you can choose between:
+* tiled or stretched backgrounds
+* blured or not
+* Background color is default a dark green, this will be visible in areas were your mask might not be equal to 100% (e.g 25% grass, 25% pebbles and 25% dirt).
 
-Backgroundcolor can be changed (hex code) but is default a dark green, this will be visible in areas were your mask might not be equal to 100% (e.g 25% grass, 25% pebbles and 25% dirt).
+Recommend to try out what is best for combination for your project.
 
