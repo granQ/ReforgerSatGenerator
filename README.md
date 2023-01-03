@@ -21,7 +21,7 @@ Basically all code is made by Bjorn Dahlgren.
   P:\ReforgerSatGenerator\ReforgerSatGenerator.py
   
 4) Export your mask from the world tools to the folder (mask_export)
-5) Run the batfile, soon your satellite.png dhall been created.
+5) Run the bat-file, relax and soon your satellite.png shall been created.
 
 ****************
 Useful notes
